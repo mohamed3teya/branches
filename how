@@ -1,0 +1,5 @@
+git push origin :dev #remove remotely
+git branch -d dev #remove local
+git push origin :test #remove remotely
+git branch -d test #remove local
+
