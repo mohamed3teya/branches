@@ -1,0 +1,7 @@
+#list tag
+git tage
+#delete tage local
+git tag -d v1
+#delete tag remotely
+git push origin --delete v1
+
